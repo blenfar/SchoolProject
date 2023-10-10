@@ -14,14 +14,7 @@ namespace SchoolProject.Infrastructure.InfrastructureBases
 
         #region Constructor(s)
 
-        public GenericRepositoryAsync(ApplicationContext dbContext)
-        {
-            _dbContext = dbContext;
-        }
-
-        #endregion
-
-        #region Methods
+        public GenericRepositoryAsync(ApplicationContext dbContext) => _dbContext = dbContext;
 
         #endregion
 
