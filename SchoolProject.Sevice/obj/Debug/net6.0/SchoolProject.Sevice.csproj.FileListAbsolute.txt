@@ -1,0 +1,17 @@
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\bin\Debug\net6.0\SchoolProject.Sevice.deps.json
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\bin\Debug\net6.0\SchoolProject.Sevice.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\bin\Debug\net6.0\SchoolProject.Sevice.pdb
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\bin\Debug\net6.0\SchoolProject.Data.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\bin\Debug\net6.0\SchoolProject.Infrastructure.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\bin\Debug\net6.0\SchoolProject.Data.pdb
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\bin\Debug\net6.0\SchoolProject.Infrastructure.pdb
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.csproj.AssemblyReference.cache
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.AssemblyInfoInputs.cache
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.AssemblyInfo.cs
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.csproj.CoreCompileInputs.cache
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.csproj.CopyComplete
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\refint\SchoolProject.Sevice.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\SchoolProject.Sevice.pdb
+C:\FormationAngularNet\SchoolProject\SchoolProject.Sevice\obj\Debug\net6.0\ref\SchoolProject.Sevice.dll

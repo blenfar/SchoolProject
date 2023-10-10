@@ -1,0 +1,17 @@
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Infrastructure.deps.json
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Infrastructure.runtimeconfig.json
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Infrastructure.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Infrastructure.pdb
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Data.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Data.pdb
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.csproj.AssemblyReference.cache
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.AssemblyInfoInputs.cache
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.AssemblyInfo.cs
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.csproj.CopyComplete
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\refint\SchoolProject.Infrastructure.dll
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.pdb
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.genruntimeconfig.cache
+C:\FormationAngularNet\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net6.0\ref\SchoolProject.Infrastructure.dll
